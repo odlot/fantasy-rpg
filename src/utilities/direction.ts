@@ -1,0 +1,11 @@
+export enum DIRECTION {
+  NONE = "NONE",
+  UP = "UP",
+  LEFT = "LEFT",
+  RIGHT = "RIGHT",
+  DOWN = "DOWN",
+  UP_LEFT = "UP_LEFT",
+  UP_RIGHT = "UP_RIGHT",
+  DOWN_LEFT = "DOWN_LEFT",
+  DOWN_RIGHT = "DOWN_RIGHT"
+}
